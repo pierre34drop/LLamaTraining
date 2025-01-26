@@ -5,4 +5,5 @@ datasets>=2.12.0
 peft>=0.4.0
 bitsandbytes>=0.40.2
 sentencepiece
+fsspec==2024.9.0  # Pinned to 2024.9.0 for compatibility
 
